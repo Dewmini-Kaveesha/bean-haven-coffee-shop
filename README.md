@@ -232,46 +232,9 @@ const galleryImages = [
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 📸 Screenshots
-
-### Desktop View
-The website features a full-width hero banner, organized menu sections, and comprehensive service displays.
-
-### Mobile View
-Responsive hamburger menu, stacked layout, and touch-friendly buttons ensure perfect mobile experience.
-
-### Tablet View
-Optimized grid layouts and spacing for medium-sized screens.
-
-## 🚀 Deployment
-
-### Deploy to Vercel
-```bash
-npm install -g vercel
-vercel
-```
-
-### Deploy to Netlify
-```bash
-npm run build
-# Drag and drop the 'build' folder to Netlify
-```
-
-### Deploy to GitHub Pages
-```bash
-npm install --save-dev gh-pages
-
-# Add to package.json:
-"homepage": "https://yourusername.github.io/bean-haven",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-
-npm run deploy
-```
 
 
+### Demo video Link: https://drive.google.com/drive/folders/1oJb4kIgWT23yjyI3V2phejCOujanVnwy
 
 ## 👨‍💻 Developer
 
